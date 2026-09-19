@@ -1,7 +1,5 @@
 # Ex06 BMI Calculator
-## Date:05/11/2025
-### NAME : Kabira A
-### REG NO : 212224040146
+
 
 ## AIM
 To create a BMI calculator using React Router 
